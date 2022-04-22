@@ -1,1 +1,2 @@
-# Ergo Names Docs
+# ErgoNames SDKS
+
