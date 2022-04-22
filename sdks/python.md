@@ -1,9 +1,11 @@
-# Javascript
+# Python
+
+### Python SDK currently has errors and may not be functional.
 
 First, we need to import the SDK.
 
 ```
-npm install ergonames
+pip install ergonames
 ```
 
 Now that the SDK is installed, we can start integrating with the system.
@@ -11,13 +13,7 @@ Now that the SDK is installed, we can start integrating with the system.
 To resolve an address from an ErgoName use the **resolve\_ergoname()** function.
 
 ```
-import { resolve_address } from "ergonames";
-```
-
-Now lets resolve the address we need.
-
-```
-let name = "~balb";
+name = "~balb";
 address = resolve_ergoname(name);
 ```
 
