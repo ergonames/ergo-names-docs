@@ -16,7 +16,7 @@ To resolve an address from an ErgoName use the **resolve\_ergoname()** function.
 
 ```rust
 let name: String = "~balb";
-let address: String = resolve_ergoname(name);
+let address: String = ergonames::resolve_ergoname(name);
 ```
 
 This function will either return a String or a null object.
