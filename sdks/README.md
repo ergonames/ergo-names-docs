@@ -15,3 +15,13 @@ All of the SDK functions can be found [here](functions.md)
 ### SDKs Coming Soon
 
 - Scala
+
+### How It Works
+
+The SDKs make calls to the public explorer [API endpoints](https://api.ergoplatform.com/api/v1/docs/)
+
+The endpoints include:
+
+- api/v1/tokens/search
+- api/v1/boxes
+- api/v1/assets/search/byTokenId
