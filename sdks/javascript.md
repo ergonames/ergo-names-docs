@@ -1,5 +1,7 @@
 # Javascript
 
+The published SDK can be found [here](https://www.npmjs.com/package/ergonames).
+
 First, we need to import the SDK.
 
 ```

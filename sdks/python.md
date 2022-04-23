@@ -1,5 +1,7 @@
 # Python
 
+The published SDK can be found [here](https://pypi.org/project/ergonames/).
+
 ### Python SDK currently has errors and may not be functional.
 
 First, we need to import the SDK.
