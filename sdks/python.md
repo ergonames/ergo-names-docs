@@ -9,7 +9,7 @@ pip install ergonames
 Now we can import the package.
 
 ```python
-from ergonames.ergonames import resolve_ergonames
+from ergonames.ergonames import resolve_ergoname
 ```
 
 Now that the SDK is imported, we can start integrating with the system.
