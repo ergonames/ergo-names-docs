@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# Python
+
+The published SDK can be found [here](https://pypi.org/project/ergonames/).
+
+>>>>>>> fb9537a64a4125aa887bffa3556648751a190e11
 ### Python SDK currently has errors and may not be functional.
 
 First, we need to import the SDK.

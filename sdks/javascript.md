@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# Javascript
+
+The published SDK can be found [here](https://www.npmjs.com/package/ergonames).
+
+>>>>>>> fb9537a64a4125aa887bffa3556648751a190e11
 First, we need to import the SDK.
 
 ```
