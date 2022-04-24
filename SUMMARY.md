@@ -2,8 +2,9 @@
 
 * [ErgoNames Docs](README.md)
 * [System](system/README.md)
+  * [Backend](system/backend.md)
+  * [Smart-Contracts](system/smartcontracts.md)
   * [Standard](system/Standard.md)
-  * [Design](system/design.md)
   * [FAQ](system/FAQ.md)
 * [SDKs](sdks/README.md)
   * [SDK Functions](sdks/sdk-functions.md)
