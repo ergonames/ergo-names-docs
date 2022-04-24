@@ -1,6 +1,0 @@
-# System
-
-### Introduction
-
-todo
-
