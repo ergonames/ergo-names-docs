@@ -1,4 +1,4 @@
-# Standard
+# Token Standard
 
 ### NFT Standard
 

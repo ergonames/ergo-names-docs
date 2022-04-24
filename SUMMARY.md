@@ -4,7 +4,7 @@
 * [System](system/README.md)
   * [Backend](system/backend.md)
   * [Smart-Contracts](system/smartcontracts.md)
-  * [Standard](system/Standard.md)
+  * [Token-Standard](system/tokenstandard.md)
   * [FAQ](system/FAQ.md)
 * [SDKs](sdks/README.md)
   * [SDK Functions](sdks/sdk-functions.md)
