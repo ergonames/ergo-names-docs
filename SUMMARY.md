@@ -11,6 +11,7 @@
 * [SDKs](sdks/README.md)
   * [SDK Functions](sdks/sdk-functions.md)
   * [Javascript SDK](sdks/javascript-sdk.md)
+  * [Scala SDK](sdks/scala-sdk.md)
   * [Rust SDK](sdks/rust-sdk.md)
   * [Python SDK](sdks/python-sdk.md)
 * [Assets](assets/README.md)
