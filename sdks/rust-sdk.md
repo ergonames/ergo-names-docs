@@ -1,5 +1,7 @@
 # Rust SDK
 
+Find the published SDK [here](https://crates.io/crates/ergonames).
+
 First, we need to add our SDK to our toml file.
 
 ```

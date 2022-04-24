@@ -1,5 +1,7 @@
 # Python SDK
 
+Find the published SDK [here](https://pypi.org/project/ergonames/).
+
 First, we need to import the SDK.
 
 ```
