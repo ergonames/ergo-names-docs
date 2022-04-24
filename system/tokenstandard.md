@@ -13,7 +13,7 @@ Encoded into each of the registers are different values:
 | R6 | Long | Payment in NanoErgs |
 | R7 | Coll[Byte] | Address of minting user |
 
-The royalty standard in register 4 is EIP-0024 complient.
+The royalty standard in register 4 is EIP-0024 compliant.
 
 ### Naming Standard
 
@@ -25,7 +25,7 @@ The royalty standard in register 4 is EIP-0024 complient.
 - Minimum Length: 1
 - Maximum Length: 20
 
-A couple examples could be:
+A couple of examples could be:
 
 - ~abc
 - ~abc123
