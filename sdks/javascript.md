@@ -1,5 +1,3 @@
-# Javascript
-
 First, we need to import the SDK.
 
 ```

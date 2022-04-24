@@ -1,5 +1,3 @@
-# Rust
-
 First, we need to add our SDK to our toml file.
 
 ```

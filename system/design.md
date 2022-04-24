@@ -1,5 +1,3 @@
-# ErgoNames Design
-
 ## ErgoNames Contracts
 
 ErgoNames uses smart contracts to track and secure funds.
