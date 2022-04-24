@@ -1,5 +1,3 @@
-# Table of contents
-
 * [ErgoNames Docs](README.md)
 * [System](system/README.md)
   * [Design](system/design.md)
