@@ -11,6 +11,8 @@
 | get_block_registered | gets the block height ergoname was registered in | Python |
 | get_timestamp_registered | gets the timestamp in milliseconds since Unix epoch of block ergoname was registered in | Python |
 | get_date_registered | gets date of block ergoname was registered in | Python |
+| reformat_name | converts all uppercase letters to lowercase | Python |
+| check_name_valid | checks to see if name follows ergoname minting standard | Python |
 | remove\_quotes    | removes quotation marks from a string         | Rust                   |
 
 More functions coming soon...
