@@ -9,6 +9,7 @@
   * [Token Standard](standards/tokenstandard.md)
   * [Royalty Standard](standards/royaltystandard.md)
 * [SDKs](sdks/README.md)
+  * [SDK Versions](sdks/sdk-versions.md)
   * [SDK Functions](sdks/sdk-functions.md)
   * [Javascript SDK](sdks/javascript-sdk.md)
   * [Scala SDK](sdks/scala-sdk.md)
