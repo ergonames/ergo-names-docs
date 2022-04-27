@@ -1,32 +1,34 @@
-# Python SDK
+# Ergo Names Python SDK
 
-Find the published SDK [here](https://pypi.org/project/ergonames/).
+### Documentation
 
-First, we need to import the SDK.
+A full list of available functions can be found [here](https://zack-balbin.gitbook.io/ergonames/sdks/sdk-functions).
 
-```
-pip install ergonames
-```
-
-Now we can import the package.
+Example: Resolving an ErgoName Owner Address
 
 ```python
-from ergonames.ergonames import resolve_ergoname
+name = "~balb"
+address = resolve_ergoname(name)
 ```
-
-Now that the SDK is imported, we can start integrating with the system.
-
-To resolve an address from an ErgoName use the **resolve\_ergoname()** function.
-
-```python
-name = "~balb";
-address = resolve_ergoname(name);
-```
-
-This function will either return a String or a null object.
-
-Example result:
+The result (owner address) will be:
 
 ```
 3WwKzFjZGrtKAV7qSCoJsZK9iJhLLrUa3uwd4yw52bVtDVv6j5TL
 ```
+
+Example: Getting registration date for an ErgoName
+
+```python
+name = "~balb"
+date = get_date_registered(name)
+```
+
+The result (date registered YYYY-MM-DD HH:MM:SS) will be:
+
+```
+2022-04-17 12:15:39.771000
+```
+
+### Contribute
+
+If you wish to contribute, make a pull request!
