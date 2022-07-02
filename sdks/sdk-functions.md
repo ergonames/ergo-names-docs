@@ -13,6 +13,5 @@
 | get_date_registered | gets date of block ergoname was registered in | Python, JS, Rust, Scala |
 | reformat_name | converts all uppercase letters to lowercase | Python, JS, Rust, Scala |
 | check_name_valid | checks to see if name follows ergoname minting standard | Python, JS, Rust, Scala |
-| remove\_quotes    | removes quotation marks from a string         | Rust                   |
 
 More functions coming soon...
