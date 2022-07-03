@@ -12,9 +12,7 @@ All of the SDK functions can be found [here](functions.md)
 
 [Python](python.md)
 
-### SDKs Coming Soon
-
-- Scala
+[Scala](scala.md)
 
 ### How It Works
 
