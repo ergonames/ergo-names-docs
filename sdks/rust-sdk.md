@@ -5,7 +5,7 @@ Find the published SDK [here](https://crates.io/crates/ergonames).
 First, we need to add our SDK to our toml file.
 
 ```
-ergonames = "0.3.6"
+ergonames = "0.4.0"
 ```
 
 #### resolve_ergoname()
