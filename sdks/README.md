@@ -6,13 +6,13 @@ All of the SDK functions can be found [here](functions.md)
 
 ### SDK List
 
-[JavaScript](javascript.md)
+[JavaScript](javascript-sdk.md)
 
-[Rust](rust.md)
+[Rust](rust-sdk.md)
 
-[Python](python.md)
+[Python](python-sdk.md)
 
-[Scala](scala.md)
+[Scala](scala-sdk.md)
 
 ### How It Works
 
