@@ -82,5 +82,5 @@ let token_list: Option[Array[BalanceToken]] = ergonames.reverse_search(address);
 
 ```scala
 let address: String = "3WwKzFjZGrtKAV7qSCoJsZK9iJhLLrUa3uwd4yw52bVtDVv6j5TL";
-let amount_owned: Option<Int> = ergonames.get_total_amount_owned(address);
+let amount_owned: Option[Int] = ergonames.get_total_amount_owned(address);
 ```

@@ -12,75 +12,75 @@ npm install ergonames
 
 ```javascript
 let name = "~balb";
-let address = ergonames.resolve_ergoname(name);
+let address = await ergonames.resolve_ergoname(name);
 ```
 
 #### check_already_registered()
 
 ```javascript
 let name = "~balb";
-let registered = ergonames.check_already_registered(name);
+let registered = await ergonames.check_already_registered(name);
 ```
 
 #### check_name_valid()
 
 ```javascript
 let name = "~balb";
-let valid = ergonames.check_name_valid(name);
+let valid = await ergonames.check_name_valid(name);
 ```
 
 #### reformat_name()
 
 ```javascript
 let name = "~balb";
-let reformated_name = ergonames.reformat_name(name);
+let reformated_name = await ergonames.reformat_name(name);
 ```
 
 #### check_name_price()
 
 ```javascript
 let name = "~balb";
-let price = ergonames.check_name_price(name);
+let price = await ergonames.check_name_price(name);
 ```
 
 #### get_block_id_registered()
 
 ```javascript
 let name = "~balb";
-let block_id = ergonames.get_block_id_registered(name);
+let block_id = await ergonames.get_block_id_registered(name);
 ```
 
 #### get_block_registered()
 
 ```javascript
 let name = "~balb";
-let block = ergonames.get_block_registered(name);
+let block = await ergonames.get_block_registered(name);
 ```
 
 #### get_timestamp_registered()
 
 ```javascript
 let name = "~balb";
-let timestamp = ergonames.get_timestamp_registered(name);
+let timestamp = await ergonames.get_timestamp_registered(name);
 ```
 
 #### get_date_registered()
 
 ```javascript
 let name = "~balb";
-let date = ergonames.get_date_registered(name);
+let date = await ergonames.get_date_registered(name);
 ```
 
 #### reverse_search()
 
 ```javascript
 let address = "3WwKzFjZGrtKAV7qSCoJsZK9iJhLLrUa3uwd4yw52bVtDVv6j5TL";
-let token_list = ergonames.reverse_search(address);
+let token_list = await ergonames.reverse_search(address);
 ```
 
 #### get_total_amount_owned()
 
 ```javascript
 let address = "3WwKzFjZGrtKAV7qSCoJsZK9iJhLLrUa3uwd4yw52bVtDVv6j5TL";
-let amount_owned = ergonames.get_total_amount_owned(address);
+let amount_owned = await ergonames.get_total_amount_owned(address);
 ```

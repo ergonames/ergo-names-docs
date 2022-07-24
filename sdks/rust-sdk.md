@@ -68,7 +68,7 @@ let timestamp: Option<u64> = ergonames::get_timestamp_registered(name, None);
 
 ```rust
 let name: &str = "~balb";
-let date: bool = ergonames::get_date_registered(name, None);
+let date: Option<String> = ergonames::get_date_registered(name, None);
 ```
 
 #### reverse_search()
