@@ -40,7 +40,7 @@ let reformated_name: String = ergonames::reformat_name(name);
 
 ```rust
 let name: &str = "~balb";
-let price: i32 = ergonames::check_name_price(name);
+let price: Option<i32> = ergonames::check_name_price(name);
 ```
 
 #### get_block_id_registered()
