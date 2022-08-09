@@ -6,13 +6,19 @@ All of the SDK functions can be found [here](sdk-functions.md)
 
 ### SDK List
 
-[JavaScript](javascript-sdk.md)
+##### Resolution SDKs
 
-[Rust](rust-sdk.md)
+[JavaScript](resolution/javascript-sdk.md)
 
-[Python](python-sdk.md)
+[Rust](resolution/rust-sdk.md)
 
-[Scala](scala-sdk.md)
+[Python](resolution/python-sdk.md)
+
+[Scala](resolution/scala-sdk.md)
+
+##### Function SDKs
+
+[JavaScript](functional/javascript-tx-lib.md)
 
 ### How It Works
 
