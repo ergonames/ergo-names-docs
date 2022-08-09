@@ -13,8 +13,8 @@
 | get_date_registered | gets date of block ergoname was registered in | Python, JS, Rust, Scala |
 | reverse_search | gets all the owned ergoname tokens of an address | Python, JS, Rust, Scala |
 | get_total_amount_owned | returns a number of owned ergoname NFTs for a given address | Python, JS, Rust, Scala |
-| check_pending_registration | checks if there are any pending registrations for an ergoname | Rust |
-| available_for_registration | checks if an ergoname is available for registration | Rust |
+| check_pending_registration | checks if there are any pending registrations for an ergoname | Pythonm JS, Rust |
+| available_for_registration | checks if an ergoname is available for registration | Python, JS, Rust |
 
 
 ## Functions Example
