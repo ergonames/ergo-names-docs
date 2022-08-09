@@ -13,6 +13,8 @@
 | get_date_registered | gets date of block ergoname was registered in | Python, JS, Rust, Scala |
 | reverse_search | gets all the owned ergoname tokens of an address | Python, JS, Rust, Scala |
 | get_total_amount_owned | returns a number of owned ergoname NFTs for a given address | Python, JS, Rust, Scala |
+| check_pending_registration | checks if there are any pending registrations for an ergoname | Rust |
+| available_for_registration | checks if an ergoname is available for registration | Rust |
 
 
 ## Functions Example
@@ -90,4 +92,18 @@
 **Parameters:** address, explorer_api
 
 - **address:** The address you want to get the list of owned tokens for
+- **explorer_api:** The url of the explorer api is an optional parameter and is the url of thge api you querying for data (Default is **api.ergoplatform.com**)
+
+### check_pending_registration()
+
+**Parameters:** name, explorer_api
+
+- **name:** the name of the ergoname you are trying to get the pending registration for
+- **explorer_api:** The url of the explorer api is an optional parameter and is the url of thge api you querying for data (Default is **api.ergoplatform.com**)
+
+### available_for_registration()
+
+**Parameters:** name, explorer_api
+
+- **name:** the name of the ergoname you are trying to get the pending registration for
 - **explorer_api:** The url of the explorer api is an optional parameter and is the url of thge api you querying for data (Default is **api.ergoplatform.com**)
