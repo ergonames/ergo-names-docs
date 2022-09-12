@@ -8,10 +8,12 @@ Encoded into each of the registers are different values:
 
 | Register | Data Type | Data Point |
 | -------- | --------- | ---------- |
-| R4| Int | Royalty Percentage |
-| R5 | Coll[Byte] | Name of NFT |
-| R6 | Long | Payment in NanoErgs |
-| R7 | Coll[Byte] | Address of minting user |
+| R4 | Coll[Byte] | Name of Token |
+| R5 | Coll[Byte] | Description of Token |
+| R6 | Int | Number of Decimals |
+| R7 | Coll[Byte] | 0e020101 to specify Picture NFT |
+| R8 | Coll[Byte] | SHA-256 Hash of Image File |
+| R9 | Coll[Byte] | SVG Image Encoded |
 
 The royalty standard in register 4 is EIP-0024 compliant.
 
